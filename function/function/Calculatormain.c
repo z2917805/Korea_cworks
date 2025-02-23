@@ -1,6 +1,6 @@
 #include <stdio.h> //c언어에서 제공된 헤더파일 <>
 #include "Calculator.h"; //내가 만든 헤더파일 ""
-int main() {
+int main_Calculatormain() {
 	int x = 3, y = 4, result;
 	count++;
 

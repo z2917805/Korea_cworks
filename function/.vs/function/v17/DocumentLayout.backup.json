@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\cworks(2)\\function\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9B1BE4E-9429-46DF-9CDF-6950BE8F8484}|function\\function.vcxproj|C:\\cworks(2)\\function\\function\\uppercase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9B1BE4E-9429-46DF-9CDF-6950BE8F8484}|function\\function.vcxproj|solutionrelative:function\\uppercase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9B1BE4E-9429-46DF-9CDF-6950BE8F8484}|function\\function.vcxproj|C:\\cworks(2)\\function\\function\\Calculatormain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D9B1BE4E-9429-46DF-9CDF-6950BE8F8484}|function\\function.vcxproj|solutionrelative:function\\Calculatormain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B1BE4E-9429-46DF-9CDF-6950BE8F8484}|function\\function.vcxproj|C:\\cworks(2)\\function\\function\\Calculator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9B1BE4E-9429-46DF-9CDF-6950BE8F8484}|function\\function.vcxproj|solutionrelative:function\\Calculator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9B1BE4E-9429-46DF-9CDF-6950BE8F8484}|function\\function.vcxproj|C:\\cworks(2)\\function\\function\\calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D9B1BE4E-9429-46DF-9CDF-6950BE8F8484}|function\\function.vcxproj|solutionrelative:function\\calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9B1BE4E-9429-46DF-9CDF-6950BE8F8484}|function\\function.vcxproj|C:\\cworks(2)\\function\\function\\Calculator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D9B1BE4E-9429-46DF-9CDF-6950BE8F8484}|function\\function.vcxproj|solutionrelative:function\\Calculator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D9B1BE4E-9429-46DF-9CDF-6950BE8F8484}|function\\function.vcxproj|C:\\cworks(2)\\function\\function\\Stringfunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9B1BE4E-9429-46DF-9CDF-6950BE8F8484}|function\\function.vcxproj|solutionrelative:function\\Stringfunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "uppercase.c",
+              "DocumentMoniker": "C:\\cworks(2)\\function\\function\\uppercase.c",
+              "RelativeDocumentMoniker": "function\\uppercase.c",
+              "ToolTip": "C:\\cworks(2)\\function\\function\\uppercase.c*",
+              "RelativeToolTip": "function\\uppercase.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-23T02:24:04.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stringfunction.c",
+              "DocumentMoniker": "C:\\cworks(2)\\function\\function\\Stringfunction.c",
+              "RelativeDocumentMoniker": "function\\Stringfunction.c",
+              "ToolTip": "C:\\cworks(2)\\function\\function\\Stringfunction.c",
+              "RelativeToolTip": "function\\Stringfunction.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-23T01:45:20.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "calculator.h",
               "DocumentMoniker": "C:\\cworks(2)\\function\\function\\calculator.h",
               "RelativeDocumentMoniker": "function\\calculator.h",
@@ -52,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Calculatormain.c",
               "DocumentMoniker": "C:\\cworks(2)\\function\\function\\Calculatormain.c",
               "RelativeDocumentMoniker": "function\\Calculatormain.c",
               "ToolTip": "C:\\cworks(2)\\function\\function\\Calculatormain.c",
               "RelativeToolTip": "function\\Calculatormain.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-23T00:31:41.317Z",
               "EditorCaption": ""

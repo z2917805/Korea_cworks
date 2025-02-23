@@ -135,6 +135,8 @@
     <ClCompile Include="localvar.c" />
     <ClCompile Include="square.c" />
     <ClCompile Include="staticvar.c" />
+    <ClCompile Include="Stringfunction.c" />
+    <ClCompile Include="uppercase.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="calculator.h" />
