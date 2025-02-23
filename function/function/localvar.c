@@ -1,0 +1,16 @@
+#include <stdio.h>
+//지역 변수 생명 주기(Scope)
+//블록(함수, 제어문)안에서 초기화 될때 생성되고
+//블록을 벗어나면 소멸(해제)한다.
+//int main_localvar() {
+//	int value = add10();
+//	printf("value = %d\n", value);
+//	return 0;
+//}
+//
+//int sum10() {
+//	int x = 1;//지역변수
+//	x = x + 10;
+//	return x;
+//}
+
